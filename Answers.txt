@@ -1,0 +1,5 @@
+1. git checkout -b
+2. fast foward only happens if there have been no commits on the original branch
+3. git checkout
+4. git branch -D
+5. When merging if Git cannot determine which file or folder to use since there may have been different commits and changes to the same file
